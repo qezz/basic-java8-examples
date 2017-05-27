@@ -1,0 +1,13 @@
+*.aux
+*.log
+*.out
+*.toc
+
+*.tex
+*.pdf
+
+*.class
+
+
+_minted-report
+images
