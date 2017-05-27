@@ -12,5 +12,6 @@ This repo references to SPbPU "Microprocessor systems" course
 ## Author
 
 This repo: https://github.com/qezz/basic-java8-examples
+
 Sergey Mishin (sergei.a.mishin@gmail.com)
 
